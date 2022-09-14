@@ -17,10 +17,10 @@ body{
 .contenedor{
     display: flex;
 }
-.imagen{
+picture{
     height: 500px;
 }
-.imagen img{
+picture img{
     object-fit: contain;
     width: 100%;
     height: 100%;

@@ -4,11 +4,10 @@
         flex-direction: column;
         padding: 10px;
     }
-    .imagen{
+    picture{
         height: 100%;
     }
-    .imagen img{
-        content: url("../images/image-product-mobile.jpg");
+    picture img{
         border-top-left-radius: 15px;
         border-top-right-radius: 15px;
         border-bottom-left-radius: 0px;
